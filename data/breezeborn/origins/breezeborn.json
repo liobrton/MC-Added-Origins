@@ -1,0 +1,15 @@
+{
+    "name": "Breezeborn",
+    "description": "You've been through many trials in your life.",
+    "powers": [
+        "breezeborn:jump_boost",
+        "breezeborn:fall_invulnerability",
+        "origins:light_armor",
+        "breezeborn:a_stiff_breeze"
+    ],
+    "icon": {
+        "item": "minecraft:wind_charge"
+    },
+    "order": 1,
+    "impact": 2
+}
