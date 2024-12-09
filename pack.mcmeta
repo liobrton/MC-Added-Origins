@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "A pack that should add the breezeborn origin to the game when used with the origins mod.",
+        "pack_format": 48
+    }
+}
