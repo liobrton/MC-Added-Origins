@@ -1,6 +1,6 @@
 {
     "name": "Light as a Feather",
-    "description": "Your body is significantly lighter than that of a normal player, allowing you to jump higher and take no fall damage.",
+    "description": "Your body is very light, allowing you to jump higher and take no fall damage.",
     "type": "origins:multiple",
 
     "jump_boost": {

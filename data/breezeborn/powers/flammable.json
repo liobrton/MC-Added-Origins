@@ -1,6 +1,6 @@
 {
     "name": "Flammable",
-    "description": "As a being of the air, you're more succeptible to being consumed by fire.",
+    "description": "As a being of the air, fire consumes you quickly.",
     "type": "origins:modify_damage_taken",
     "modifier": {
         "operation": "multiply_base_multiplicative",

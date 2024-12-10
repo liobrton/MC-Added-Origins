@@ -1,11 +1,11 @@
 {
-    "name": "Passing Gas",
-    "description": "You can use wind charges without having any.",
+    "name": "Gift of the Chambers",
+    "description": "You can throw wind charges at will.",
     "type": "origins:fire_projectile",
     "cooldown": 15,
     "hud_render": {
-        "sprite_location": "origins:textures/gui/resource_bar_01.png",
-        "bar_index": 4
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png",
+        "bar_index": 9
     },
     "entity_type": "minecraft:wind_charge",
     "speed": 1.5,
