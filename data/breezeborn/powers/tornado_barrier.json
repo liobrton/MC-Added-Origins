@@ -47,14 +47,14 @@
     "activation": {
         "type": "origins:active_self",
         "key": "key.origins.secondary_active",
-        "cooldown": 41,
+        "cooldown": 31,
         "entity_action": {
             "type": "origins:and",
             "actions": [
                 {
                     "type": "origins:change_resource",
                     "resource": "*:*_countdown_variable",
-                    "change": -41
+                    "change": -31
                 },
                 {
                     "type": "origins:play_sound",

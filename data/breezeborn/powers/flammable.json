@@ -4,7 +4,7 @@
     "type": "origins:modify_damage_taken",
     "modifier": {
         "operation": "multiply_base_multiplicative",
-        "value": 1.5
+        "value": 1.2
     },
     "damage_condition": {
         "type": "origins:in_tag",
