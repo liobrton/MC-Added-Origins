@@ -1,0 +1,16 @@
+{
+    "name": "Breezeborn",
+    "description": "Descended from their ancestors in the Trial Chambers, the Breezeborn are playful beings capable of manipulating the wind.",
+    "powers": [
+        "breezeborn:fire_wind_charge",
+        "breezeborn:light",
+        "breezeborn:tornado_barrier",
+        "breezeborn:flammable",
+        "origins:light_armor"
+    ],
+    "icon": {
+        "item": "minecraft:wind_charge"
+    },
+    "order": 1,
+    "impact": 2
+}
