@@ -1,0 +1,17 @@
+{
+    "name": "Passing Gas",
+    "description": "You can use wind charges without having any.",
+    "type": "origins:fire_projectile",
+    "cooldown": 15,
+    "hud_render": {
+        "sprite_location": "origins:textures/gui/resource_bar_01.png",
+        "bar_index": 4
+    },
+    "entity_type": "minecraft:wind_charge",
+    "speed": 1.5,
+    "divergence": 1,
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": false
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Flammable",
+    "description": "As a being of the air, you're more succeptible to being consumed by fire.",
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "operation": "multiply_base_multiplicative",
+        "value": 1.5
+    },
+    "damage_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:is_fire"
+    }
+}

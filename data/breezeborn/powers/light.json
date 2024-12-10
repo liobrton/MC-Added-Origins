@@ -1,0 +1,32 @@
+{
+    "name": "Light as a Feather",
+    "description": "Your body is significantly lighter than that of a normal player, allowing you to jump higher and take no fall damage.",
+    "type": "origins:multiple",
+
+    "jump_boost": {
+        "type": "origins:modify_jump",
+        "modifier": {
+            "value": 0.5,
+            "operation": "multiply_base_multiplicative"
+        }
+    },
+    "fall_immunity": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:is_fall"
+        }
+    },
+    "landing_particles": {
+        "type": "origins:action_on_land",
+        "entity_action": {
+            "type": "origins:execute_command",
+            "command": "particle minecraft:gust_emitter_small"
+        },
+        "condition": {
+            "type": "origins:fall_distance",
+            "comparison": ">",
+            "compare_to": 4
+        }
+    }
+}

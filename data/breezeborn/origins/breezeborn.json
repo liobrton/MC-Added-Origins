@@ -2,8 +2,10 @@
     "name": "Breezeborn",
     "description": "You've been through many trials in your life.",
     "powers": [
-        "breezeborn:jump_boost",
-        "breezeborn:fall_invulnerability",
+        "breezeborn:tornado_barrier",
+        "breezeborn:light",
+        "breezeborn:passing_gas",
+        "breezeborn:flammable",
         "origins:light_armor",
         "breezeborn:a_stiff_breeze"
     ],
