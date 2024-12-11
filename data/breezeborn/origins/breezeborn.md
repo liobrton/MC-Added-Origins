@@ -1,4 +1,4 @@
-## Breezeborn Origin:
+## Breezeborn Origin (FOR ORIGINS 1.21 1.13.0-ALPHA.8):
 
 -   [x] + (Light as a Feather) You can jump higher, and also don't take fall damage
 -   [x] + (Gift of the Chambers) You can use wind charges at any time

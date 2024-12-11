@@ -9,7 +9,7 @@
         "origins:light_armor"
     ],
     "icon": {
-        "item": "minecraft:wind_charge"
+        "id": "minecraft:wind_charge"
     },
     "order": 1,
     "impact": 2
