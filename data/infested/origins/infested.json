@@ -4,7 +4,8 @@
     "powers": [
         "infested:flammable",
         "infested:dragons_might",
-        "infested:no_chestplate"
+        "infested:no_chestplate",
+        "infested:sculk_xp_increase"
     ],
     "icon": {
         "id": "minecraft:sculk_catalyst"
