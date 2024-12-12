@@ -1,0 +1,10 @@
+{
+    "name": "Infested",
+    "description": "Children of the end, siblings of the sculk.",
+    "powers": ["infested:flammable"],
+    "icon": {
+        "id": "minecraft:sculk"
+    },
+    "order": 1,
+    "impact": 2
+}
