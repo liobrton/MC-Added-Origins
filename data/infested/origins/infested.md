@@ -1,6 +1,6 @@
 ## Infested - (FOR ORIGINS 1.21 1.13.0-ALPHA.8)
 -   [x] + (Dragon's Might) Extra health + strength
--   [ ] + ( ) Mining sculk drops gives you more XP
+-   [x] + (Bountiful Harvest) Mining sculk drops gives you more XP
 -   [ ] + (Catalyst) When you kill enemies, natural blocks around them become sculk (toggleable)
 -   [ ] + (Friend of the Dark) Sculk sensors and wardens are passive to you
 -   [ ] + () You get night vision (toggleable with Catalyst)
