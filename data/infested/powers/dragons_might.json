@@ -1,0 +1,19 @@
+{
+    "name": "Dragon's Might",
+    "description": "You are stronger than the average player and have 3 extra hearts of life.",
+    "type": "origins:attribute",
+    "modifiers": [
+        {
+            "id": "minecraft:generic.max_health",
+            "attribute": "minecraft:generic.max_health",
+            "operation": "add_value",
+            "amount": 6
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "attribute": "minecraft:generic.attack_damage",
+            "operation": "add_value",
+            "amount": 3
+        }
+    ]
+}

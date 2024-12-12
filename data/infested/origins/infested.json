@@ -1,9 +1,9 @@
 {
     "name": "Infested",
     "description": "Children of the end, siblings of the sculk.",
-    "powers": ["infested:flammable"],
+    "powers": ["infested:flammable", "infested:dragons_might"],
     "icon": {
-        "id": "minecraft:sculk"
+        "id": "minecraft:sculk_catalyst"
     },
     "order": 1,
     "impact": 2
