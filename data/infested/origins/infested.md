@@ -5,6 +5,6 @@
 -   [ ] + (Friend of the Dark) Sculk sensors and wardens are passive to you
 -   [ ] + () You get night vision (toggleable with Catalyst)
 
--   [ ] \- (Tattered Wings) You can't wear a chestplate
+-   [x] \- (Tattered Wings) You can't wear a chestplate
 -   [ ] \- (Parasitic Hunger) You can only regain hunger through consuming XP
 -   [x] \- (Flammable) You take extra fire damage
