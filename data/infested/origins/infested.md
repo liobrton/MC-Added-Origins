@@ -7,4 +7,4 @@
 
 -   [ ] \- (Tattered Wings) You can't wear a chestplate
 -   [ ] \- (Parasitic Hunger) You can only regain hunger through consuming XP
--   [ ] \- (Flammable) You take extra fire damage
+-   [x] \- (Flammable) You take extra fire damage

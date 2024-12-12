@@ -1,4 +1,8 @@
 {
     "replace": false,
-    "origins": ["breezeborn:breezeborn", "shulkdragon:shulkdragon"]
+    "origins": [
+        "breezeborn:breezeborn",
+        "shulkdragon:shulkdragon",
+        "infested:infested"
+    ]
 }
