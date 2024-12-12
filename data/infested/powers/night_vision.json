@@ -1,0 +1,8 @@
+{
+    "name": "Echolocation",
+    "description": "You gain nightvision while using your Catalyst power.",
+    "type": "origins:toggle_night_vision",
+    "active_by_default": false,
+    "strength": 0.5,
+    "key": { "key": "key.origins.primary_active" }
+}

@@ -3,7 +3,7 @@
 -   [x] + (Bountiful Harvest) Mining sculk drops gives you more XP
 -   [ ] + (Catalyst) When you kill enemies, natural blocks around them become sculk (toggleable)
 -   [ ] + (Friend of the Dark) Sculk sensors and wardens are passive to you
--   [ ] + () You get night vision (toggleable with Catalyst)
+-   [ ] + (Echolocation) You get night vision (toggleable with Catalyst)
 
 -   [x] \- (Tattered Wings) You can't wear a chestplate
 -   [ ] \- (Parasitic Hunger) You can only regain hunger through consuming XP
