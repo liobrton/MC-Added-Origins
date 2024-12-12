@@ -5,7 +5,8 @@
         "infested:flammable",
         "infested:dragons_might",
         "infested:no_chestplate",
-        "infested:sculk_xp_increase"
+        "infested:sculk_xp_increase",
+        "infested:night_vision"
     ],
     "icon": {
         "id": "minecraft:sculk_catalyst"
