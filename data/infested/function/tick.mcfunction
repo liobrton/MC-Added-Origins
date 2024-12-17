@@ -1,4 +1,4 @@
-xp add @a[tag=give_xp] 2
+xp add @a[tag=give_xp] -2
 tag @a remove give_xp
 execute as @a unless score @s xp_2 matches 0.. run scoreboard players set @s xp_2 0
 execute as @a[tag=dragon] unless score @s xp matches 0.. run tag @s add give_xp
