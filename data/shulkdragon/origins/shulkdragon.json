@@ -1,7 +1,7 @@
 {
     "name": "Shulkdragon",
     "description": "Shulk dragons are a type of dragon hybrid born of the end cities. Their tough natural armour and large frames leave them as good guards.",
-    "powers": [],
+    "powers": ["origins:shulker_inventory"],
     "icon": {
         "id": "minecraft:purpur_block"
     },

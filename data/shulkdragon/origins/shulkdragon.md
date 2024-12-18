@@ -1,6 +1,6 @@
 ## Shulkdragon
 
-- [ ] + Shulker inventory - shulk
+- [x] + Shulker inventory - shulk
 - [ ] + Natural armour (2 points) - shulk
 - [ ] + Wind burst for flying - dragon
 - [ ] + Can eat stones for no nutritional value - ario
