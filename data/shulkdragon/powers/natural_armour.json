@@ -1,0 +1,11 @@
+{
+    "name": "Shell",
+    "description": "Even without wearing armour, your skin provides natural protection.",
+    "type": "origins:attribute",
+    "modifier": {
+        "id": "*:*",
+        "attribute": "minecraft:generic.armor",
+        "amount": 4.0,
+        "operation": "add_value"
+    }
+}
