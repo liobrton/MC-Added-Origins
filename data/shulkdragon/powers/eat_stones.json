@@ -1,0 +1,65 @@
+{
+    "name": "Iron Stomach",
+    "description": "You can eat stones for no nutritional value and no reason.",
+    "type": "origins:multiple",
+    "stone": {
+        "type": "origins:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:stone"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "meat": true
+        },
+        "use_action": "eat"
+    },
+    "cobblestone": {
+        "type": "origins:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:cobblestone"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "meat": true
+        },
+        "use_action": "eat"
+    },
+    "deepslate": {
+        "type": "origins:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:deepslate"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "meat": true
+        },
+        "use_action": "eat"
+    },
+    "cobbled_deepslate": {
+        "type": "origins:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:cobbled_deepslate"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "meat": true
+        },
+        "use_action": "eat"
+    }
+}

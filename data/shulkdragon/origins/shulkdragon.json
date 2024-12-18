@@ -1,0 +1,17 @@
+{
+    "name": "Shulkdragon",
+    "description": "Descended from an extinct species of dragon from the outer end islands, shulkdragons are similar to shulks in many of their characteristics.",
+    "powers": [
+        "shulkdragon:shulker_inventory",
+        "shulkdragon:launch_into_air",
+        "shulkdragon:natural_armour",
+        "shulkdragon:eat_stones",
+        "shulkdragon:exhaustion",
+        "shulkdragon:big_boy"
+    ],
+    "icon": {
+        "id": "minecraft:purpur_block"
+    },
+    "order": 1,
+    "impact": 2
+}

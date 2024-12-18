@@ -1,0 +1,11 @@
+{
+    "name": "Dragon's Hoard",
+    "description": "You have 9 extra slots of inventory at your disposal, that does not drop when you die.",
+    "type": "origins:inventory",
+    "title": "container.shulker_inventory_power",
+    "drop_on_death": false,
+    "key": {
+        "key": "key.origins.secondary_active",
+        "continuous": false
+    }
+}
