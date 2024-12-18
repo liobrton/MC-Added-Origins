@@ -7,4 +7,4 @@
 
 - [x] \- (Tall Frame) Player is 1.1 times bigger than normal - dragon
 - [x] \- (Reserved Space) You cannot wear a chestplate. - dragon
-- [ ] \- Exhausts quicker (NOT as much as shulk origin) - shulk
+- [x] \- Exhausts quicker (NOT as much as shulk origin) - shulk
