@@ -5,6 +5,6 @@
 - [x] + (Gift of Flight) You can launch about 20 blocks in the air every 15 seconds. - dragon
 - [x] + (Iron Stomache) You can eat stones for no nutritional value and no reason. - ario
 
-- [x] \- (Tall Frame) Player is 1.1 times bigger than normal - dragon
+- [x] \- (Intimidating) Player is 1.1 times bigger than normal - dragon
 - [x] \- (Reserved Space) You cannot wear a chestplate. - dragon
-- [x] \- Exhausts quicker (NOT as much as shulk origin) - shulk
+- [x] \- (Large Appetite) You exhaust quicker than others. - shulk
