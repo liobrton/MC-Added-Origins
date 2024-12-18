@@ -2,12 +2,12 @@
     "name": "Infested",
     "description": "Children of the end, siblings of the sculk.",
     "powers": [
-        "infested:flammable",
         "infested:dragons_might",
-        "infested:no_chestplate",
         "infested:sculk_xp_increase",
         "infested:night_vision",
-        "infested:food_from_xp"
+        "infested:food_from_xp",
+        "infested:flammable",
+        "infested:no_chestplate"
     ],
     "icon": {
         "id": "minecraft:sculk_catalyst"
