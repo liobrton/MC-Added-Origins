@@ -1,0 +1,11 @@
+{
+    "name": "Tall Frame",
+    "description": "You're taller than the average player.",
+
+    "type": "origins:modify_attribute",
+    "attribute": "minecraft:generic.scale",
+    "modifier": {
+        "operation": "set_total",
+        "amount": 1.12
+    }
+}

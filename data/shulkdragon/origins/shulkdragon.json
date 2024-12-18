@@ -4,7 +4,8 @@
     "powers": [
         "shulkdragon:shulker_inventory",
         "shulkdragon:launch_into_air",
-        "shulkdragon:natural_armour"
+        "shulkdragon:natural_armour",
+        "shulkdragon:big_boy"
     ],
     "icon": {
         "id": "minecraft:purpur_block"
