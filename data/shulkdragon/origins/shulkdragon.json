@@ -5,7 +5,8 @@
         "shulkdragon:shulker_inventory",
         "shulkdragon:launch_into_air",
         "shulkdragon:natural_armour",
-        "shulkdragon:big_boy"
+        "shulkdragon:big_boy",
+        "shulkdragon:eat_stones"
     ],
     "icon": {
         "id": "minecraft:purpur_block"
