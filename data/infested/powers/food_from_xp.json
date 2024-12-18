@@ -1,4 +1,6 @@
 {
+    "name": "Parasitic Hunger",
+    "description": "You can only regain hunger points by consuming xp.",
     "type": "origins:action_on_callback",
     "entity_action_gained": {
         "type": "origins:execute_command",
