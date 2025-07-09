@@ -6,7 +6,7 @@
         "breezeborn:light",
         "breezeborn:tornado_barrier",
         "breezeborn:flammable",
-        "origins:light_armor"
+        "origins:burdened_armour"
     ],
     "icon": {
         "id": "minecraft:wind_charge"

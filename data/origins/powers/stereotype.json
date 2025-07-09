@@ -1,0 +1,9 @@
+{
+    "name": "This Feels Like A Stereotype",
+    "description": "You have difficulty swimming due to your psychological aversion to water.",
+    "type": "origins:prevent_sprinting",
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water"
+    }
+}

@@ -3,6 +3,7 @@
     "origins": [
         "breezeborn:breezeborn",
         "shulkdragon:shulkdragon",
-        "infested:infested"
+        "origins:feline",
+        "origins:blazeborn"
     ]
 }

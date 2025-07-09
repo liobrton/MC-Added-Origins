@@ -1,0 +1,51 @@
+{
+    "name": "Burdened Armour",
+    "description": "Any armour heavier than leather weighs you down and slows your movement.",
+    "type": "origins:modify_attribute",
+    "attribute": "minecraft:generic.movement_speed",
+    "modifier": {
+        "operation": "multiply_base_multiplicative",
+        "amount": -0.17
+    },
+    "condition": {
+        "type": "origins:or",
+        "conditions": [
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "head",
+                "item_condition": {
+                    "type": "origins:armor_value",
+                    "comparison": ">",
+                    "compare_to": 3
+                }
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "chest",
+                "item_condition": {
+                    "type": "origins:armor_value",
+                    "comparison": ">",
+                    "compare_to": 3
+                }
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "legs",
+                "item_condition": {
+                    "type": "origins:armor_value",
+                    "comparison": ">",
+                    "compare_to": 3
+                }
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "feet",
+                "item_condition": {
+                    "type": "origins:armor_value",
+                    "comparison": ">",
+                    "compare_to": 3
+                }
+            }
+        ]
+    }
+}

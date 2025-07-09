@@ -1,0 +1,31 @@
+{
+    "name": "Hot Bath",
+    "description": "Lava acts for you in a similar way to how water acts for other players; you can swim fast in it, and it will cushion your fall against all laws of physics.",
+    "type": "origins:multiple",
+    "swimming": {
+        "type": "origins:swimming",
+        "condition": {
+            "type": "origins:submerged_in",
+            "fluid": "minecraft:lava"
+        }
+    },
+    "fall": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "fall"
+        },
+        "condition": {
+            "type": "origins:in_block",
+            "block_condition": {
+                "type": "origins:block",
+                "block": "minecraft:lava"
+            }
+        }
+    },
+    "vision": {
+        "type": "origins:lava_vision",
+        "s": 0,
+        "v": 15
+    }
+}
