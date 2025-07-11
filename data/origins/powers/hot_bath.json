@@ -3,10 +3,11 @@
     "description": "Lava acts for you in a similar way to how water acts for other players; you can swim fast in it, and it will cushion your fall against all laws of physics.",
     "type": "origins:multiple",
     "swimming": {
-        "type": "origins:swimming",
-        "condition": {
-            "type": "origins:submerged_in",
-            "fluid": "minecraft:lava"
+        "type": "origins:modify_lava_speed",
+        "modifier": {
+            "id": "swim",
+            "operation": "ADD_VALUE",
+            "amount": 0.4
         }
     },
     "fall": {
